@@ -17,7 +17,6 @@ a:hover{color: #404bbf}
 }
 
 .stud{color: #2e2f42}
-h1 {color: red}
 .adres{font-style: normal}
 .logo{
     font-family: "Raleway", sans-serif;
@@ -27,4 +26,12 @@ h1 {color: red}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+.sect-f{
+    background-color:#2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
