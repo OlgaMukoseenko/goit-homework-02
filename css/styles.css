@@ -1,4 +1,8 @@
 .list{list-style-type: none;}
+.add{
+    font-style: normal;
+    color: #434455;
+}
 body {
     color: #434455;  
     background-color: #FFFFFF;
