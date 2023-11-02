@@ -49,5 +49,12 @@ a:hover{color: #404bbf}
     cursor: pointer;
 }
 .but:hover{
-    background:#404BBF;
+    background-color: #404BBF;
+}
+.fut{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
