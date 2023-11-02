@@ -13,6 +13,10 @@ a{
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
+a:hover{color: #404bbf}
+input:focus::-webkit-input-placeholder {
+    color: #404bbf;
+}
 h1 {color: red}
 .logo{
     font-family: "Raleway", sans-serif;
