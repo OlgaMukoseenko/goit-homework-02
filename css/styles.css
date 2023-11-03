@@ -13,11 +13,11 @@ a{
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-a:hover{color: #404bbf}
+a:hover{color: #404bbf;}
 }
 
-.stud{color: #2e2f42}
-.adres{font-style: normal}
+.head-sp{color:#2e2f42; }
+.adres{font-style: normal;}
 .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -70,4 +70,7 @@ a:hover{color: #404bbf}
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.foot-sp{
+    color: #f4f4fd;
 }
