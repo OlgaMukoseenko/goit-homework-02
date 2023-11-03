@@ -61,6 +61,9 @@ a:hover{color: #404bbf}
 }
 .strat{
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em;  
+}
+.foot{
+    background-color: #2e2f42;
     
 }
