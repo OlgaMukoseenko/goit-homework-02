@@ -14,7 +14,7 @@ a{
     color:#2e2f42;
 }
 a:hover{color: #404bbf;}
-}
+
 
 .head-sp{color:#2e2f42; }
 .adres{font-style: normal;}
@@ -73,7 +73,7 @@ a:hover{color: #404bbf;}
 .foot-sp{
     color: #f4f4fd;
 }
-.sect-h2{
+.hdva{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -81,7 +81,7 @@ a:hover{color: #404bbf;}
     text-transform: capitalize;
     color: #2e2f42;
 }
-.sect-h3{
+.htri{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
