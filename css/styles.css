@@ -106,4 +106,5 @@ button:focus {
 .team-li{
     background-color: #FFFFFF;
 }
-.menu-li{color:#2e2f42}
+.menu-li{color:#2e2f42;}
+.menu-a{color:#434455;}
